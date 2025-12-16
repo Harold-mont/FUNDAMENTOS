@@ -1,0 +1,11 @@
+5
+1,cuestionario t1,Gonzalez Carlos,5
+1,cuestionario t1,Rodriguez Rosa,8
+1,trabajo practico t1,Rodriguez Rosa,10
+2,cuestionario t2,Gonzalez Carlos,6
+2,cuestionario t2,Rodriguez Rosa,9
+2,trabajo practico t2,Perez Ana,7
+3,cuestionario t3,Gonzalez Carlos,4
+3,trabajo practico t3,Perez Ana,8
+4,cuestionario t4,Gonzalez Carlos,7
+5,trabajo practico t5,Gonzalez Carlos,6

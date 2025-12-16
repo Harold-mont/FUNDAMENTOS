@@ -20,6 +20,7 @@ indicado en el campo Nivel Educativo, como "PRI", "SEC", "UNI").
 c. En base al diccionario del punto anterior, dejar en el archivo inscripciones.txt, un listado ordenado de menor a mayor por el total de inscriptos 
 en cada curso, indicando por cada línea del archivo: Nombre del Curso - Total Inscriptos - Cant. Est. Prim. - Cant. Est. Sec. - Cant. Est. Univ.
 '''
+
 def leer(archivo):
     linea = archivo.readline()
     if linea:
